@@ -82,3 +82,7 @@ After that, `git status`:
 ```
 d1e4dd5 (HEAD -> main) First version of the homepage.
 ```
+
+## Remote changes
+
+Editing something from github
